@@ -69,3 +69,4 @@ CREATE TABLE student_records (
 ALTER TABLE student_records
 ADD CONSTRAINT chk_attendance CHECK (attendance_percentage >= 0 AND attendance_percentage <= 100);
 \c university_main;
+
