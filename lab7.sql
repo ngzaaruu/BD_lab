@@ -1,0 +1,1 @@
+-- Laboratory Work 7: SQL Views and Roles
